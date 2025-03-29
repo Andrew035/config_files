@@ -1,16 +1,17 @@
-font-family = CaskaydiaCove Nerd Font
+# font-family = CaskaydiaCove Nerd Font
 # font-family = Operator Mono
 # font-family = FiraCode Nerd Font
 # font-family = 0xProto
-font-size = 13.5
+font-family = CommitMono Nerd Font
+font-size = 14.5
 font-thicken = true
-font-feature = "zero, ss01"
+font-feature = "zero"
 # theme = catppuccin-mocha
 # theme = tokyonight_night
 # theme = rose-pine-moon
 theme = rose-pine
-background-opacity = 0.7
-background-blur-radius = 20
+background-opacity = 0.8
+background-blur-radius = 0
 cursor-style = block
 adjust-cell-height = 35%
 
